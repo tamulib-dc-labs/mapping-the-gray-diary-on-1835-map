@@ -1,0 +1,71 @@
+{
+  "storymap": {
+    "call_to_action": true,
+    "call_to_action_text": "",
+    "map_as_image": true,
+    "map_type": "zoomify",
+    "slides": [
+      {
+        "date": "",
+        "location": {
+          "line": true
+        },
+        "media": {
+          "caption": "Title page of the William Fairfax Gray Diary",
+          "credit": "",
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRmFwaS5saWJyYXJ5LnRhbXUuZWR1JTJGaWlpZi1zZXJ2aWNlJTJGZmVkb3JhJTJGY2FudmFzJTJGM2IlMkY2ZiUyRmMzJTJGMjUlMkYzYjZmYzMyNS1mNmNhLTQxZDgtYjkxZS04YzVkYjNiZThjMTMlMkZncmF5ZGlhcnktc2FmX29iamVjdHMlMkYyJTJGcGFnZXMlMkZwYWdlXzQlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdE",
+          "url": "https://api.library.tamu.edu/iiif/2/6f8d6d51-7c5c-3130-abf4-bf5daa8f027d/177,147,1681,2994/full/0/default.jpg"
+        },
+        "text": {
+          "headline": "Mapping the Gray Diary",
+          "text": "Explore the landscapes and communities William Fairfax Gray recorded in his diary. This map visualizes his travels through 1830s Texas, linking his firsthand observations to the places where history unfolded."
+        },
+        "type": "overview"
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 63.78248603116502,
+          "line": true,
+          "lon": -26.411132812499996,
+          "zoom": 6
+        },
+        "media": {
+          "caption": "Vol. 1, Page 2 of the William Fairfax Gray Diary",
+          "credit": "",
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTMlMjN4eXdoJTNEMTEzJTJDNTg2JTJDMjAwOSUyQzUxNSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "url": "https://api.library.tamu.edu/iiif/2/7ef01848-ce8f-3ba6-bdd4-164a4b7a81be/113,586,2009,515/full/0/default.jpg"
+        },
+        "text": {
+          "headline": "Tuesday, Octo. 6th, 1835",
+          "text": "Left Fredericksburg, Virginia. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTMlMjN4eXdoJTNEMTEzJTJDNTg2JTJDMjAwOSUyQzUxNSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Wednesday, Octo. 7, 1835",
+          "text": "Left Orange, Virginia. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTQlMjN4eXdoJTNEMTI4JTJDNTc1JTJDMTk2OSUyQzQ3NSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/128,575,1969,475/full/0/default.jpg",
+          "credit": "",
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTQlMjN4eXdoJTNEMTI4JTJDNTc1JTJDMTk2OSUyQzQ3NSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol 1, Page 3"
+        },
+        "location": {
+          "line": true,
+          "lat": 63.430860212678105,
+          "lon": -28.9599609375,
+          "zoom": 6
+        }
+      }
+    ],
+    "zoomify": {
+      "attribution": "",
+      "height": 30791,
+      "path": "https://tamulib-dc-labs.github.io/map-of-the-us-1835-tiled/",
+      "width": 46872
+    }
+  }
+}
