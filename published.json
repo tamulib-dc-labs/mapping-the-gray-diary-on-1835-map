@@ -2,7 +2,7 @@
   "storymap": {
     "call_to_action": true,
     "call_to_action_text": "",
-    "map_as_image": true,
+    "map_as_image": false,
     "map_type": "zoomify",
     "slides": [
       {
